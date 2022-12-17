@@ -1,6 +1,6 @@
 @media only screen and (max-width: 1300px){
 section.main-menu.sec{
-	width: 1255px;
+	width: 1257px;
 }
 .box{
 	width: 993px;
@@ -20,13 +20,7 @@ section.main-menu.sec{
 }
 @media only screen and (max-width: 1024px){
 section.main-menu.sec {
-    height: 260px;
-    box-shadow: 0px 20px 38px 0px rgb(255 247 247 / 75%);
-    -webkit-box-shadow: 0px 20px 38px 0px rgb(255 247 247 / 75%);
-    -moz-box-shadow: 0px 20px 38px 0px rgba(255,247,247,0.75);
-    border-radius: 10px;
-    width: 1231px;
-    margin-left: 10px;
+    width: 1249px;
 }
 }
 @media only screen and (max-width: 982px){
